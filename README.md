@@ -1,2 +1,3 @@
-# personal-website
-CIS 260 Field: Projet - Small-Business-Inventory-Tracker
+# CIS 260 - Webpage
+
+Tempalte for conducting a personal webpage for yourself
